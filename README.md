@@ -39,6 +39,7 @@ The assignment required building a program to manage character data, including r
 
 1. Make sure `characters.txt` is in the same folder  
 2. Run:
+python main.py
 
 ---
 
